@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+#form{
+    text-align: center;
+}
+
+.gif{
+    width: 200px;
+    margin: 5px;
+    display: inline-block;
+}
+
+    .gif img{
+    width: 100%;
+    }
